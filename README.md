@@ -40,9 +40,8 @@ To get started with this project, follow these steps:
 
 ## Dataset
 
-The hand-written digit dataset used in this project was generously provided by YBI Foundation through Kaggle resources. It is a widely recognized dataset for training and testing machine learning models.
+The hand-written digit dataset used in this project is from the scikit-learn library. It is a widely recognized dataset for training and testing machine learning models. The dataset consists of 8x8 pixel images representing digits 0 through 9. Each image is stored as an 8x8 array of grayscale values.
 
-## Credits
 
 - **YBI Foundation:** We would like to extend our gratitude to YBI Foundation for providing the high-quality hand-written digit dataset and their guidance in this project.
 
